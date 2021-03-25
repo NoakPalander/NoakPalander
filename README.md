@@ -12,6 +12,8 @@
 
 🌱 Novice web developer
 
+🦀 Learning Rust
+
 🌐 Sweden
 
 
