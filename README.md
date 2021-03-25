@@ -1,4 +1,4 @@
-### Hi, I'm Noak Palander! :wave:
+## Hi, I'm Noak Palander! :wave:
 
 👨‍💼 Working part time at Palander Consulting AB as a software developer
 
