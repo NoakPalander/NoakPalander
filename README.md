@@ -8,7 +8,7 @@
 
 📖 High school student - Technological field
 
-📝 Aspiring university student - engineering
+📝 Aspiring university student - Engineering
 
 🌱 Novice web developer
 
