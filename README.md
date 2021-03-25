@@ -33,7 +33,7 @@
 - Ktor
 
 ### Most recent project
-[A FF14 discord bot that acts as a raidtool](https://github.com/NoakPalander/Raidtool)
+[An FF14 discord bot that acts as a raidtool](https://github.com/NoakPalander/Raidtool)
 
 ![Generic badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=orange)
 
