@@ -6,9 +6,7 @@
 
 💻 Coding in C++ since 5 years back
 
-📖 High school student - Technological field
-
-📝 Aspiring university student - Engineering
+📝 Engineering student
 
 🌱 Novice web developer
 
