@@ -6,7 +6,7 @@
 
 💻 Coding in C++ since 5 years back
 
-📝 Engineering student
+📝 Engineering student at Chalmers University of Technology
 
 🌱 Novice web developer
 
