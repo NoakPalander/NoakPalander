@@ -31,7 +31,7 @@
 - Ktor
 
 ### Most recent project
-[An FF14 discord bot that acts as a raidtool](https://github.com/NoakPalander/Raidtool)
+[A desktop application that generates simulated keypresses based on a configuration](https://github.com/NoakPalander/AntiAFK)
 
 ![Generic badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=orange)
 
