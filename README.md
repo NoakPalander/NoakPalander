@@ -2,9 +2,7 @@
 
 👨‍💼 Working part time at Palander Consulting AB as a software developer
 
-👶 19 years old
-
-💻 Coding in C++ since 5 years back
+💻 Coding in C++ since 6 years back
 
 📝 Engineering student at Chalmers University of Technology
 
