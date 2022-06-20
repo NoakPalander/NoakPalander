@@ -8,7 +8,7 @@
 
 🌱 Novice web developer
 
-🦀 Learning Rust
+Learning Elixir
 
 🌐 Sweden
 
