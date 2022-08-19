@@ -1,14 +1,14 @@
 ## Hi, I'm Noak Palander! :wave:
 
-👨‍💼 Working part time at Palander Consulting AB as a software developer
+👨‍💼 Software developer Palander Consulting AB
 
 💻 Coding in C++ since 6 years back
 
-📝 Engineering student at Chalmers University of Technology
+📝 CSE student at Chalmers University of Technology
 
 🌱 Novice web developer
 
-Learning Elixir
+Learning Elixir & Haskell
 
 🌐 Sweden
 
