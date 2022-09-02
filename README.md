@@ -22,9 +22,7 @@ Learning Elixir
 
 #### Other fields & Frameworks
 - Python
-- Java
 - Qt
-- JavaFx
 - Flask
 - Ktor
 
@@ -34,7 +32,6 @@ Learning Elixir
 ![Generic badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=orange)
 
 ### Social
-[![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noak-palander-88138b173/)
 [![Generic badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/0xVali)
 
 ### Languages
