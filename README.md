@@ -8,7 +8,7 @@
 
 🌱 Novice web developer
 
-Learning Elixir & Haskell
+Learning Elixir
 
 🌐 Sweden
 
