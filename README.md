@@ -2,7 +2,7 @@
 
 👨‍💼 Software developer Palander Consulting AB
 
-💻 Coding in C++ since 6 years back
+💻 Coding in C++ since 7 years back
 
 📝 CSE student at Chalmers University of Technology
 
@@ -21,6 +21,7 @@ Learning Elixir
 ![Generic badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### Other fields & Frameworks
+- Elixir
 - Python
 - Qt
 - Flask
@@ -30,9 +31,6 @@ Learning Elixir
 [A desktop application that generates simulated keypresses based on a configuration](https://github.com/NoakPalander/AntiAFK)
 
 ![Generic badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=orange)
-
-### Social
-[![Generic badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/0xVali)
 
 ### Languages
 [![Generic badge](https://img.shields.io/badge/Native-GREEN.svg)](https://github.com/NoakPalander/) Swedish 🇸🇪
