@@ -1,4 +1,5 @@
 ## Hi, I'm Noak Palander! :wave:
+👨‍💼 Intern at China Euro Vehicle Technology (CEVT)
 
 👨‍💼 Software developer Palander Consulting AB
 
