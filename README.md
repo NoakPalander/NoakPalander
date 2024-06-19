@@ -1,8 +1,9 @@
 ## Hi, I'm Noak Palander! :wave:
 
 👨‍💼 Software developer Palander Consulting AB
+👨‍💼 Intern at Ericsson AB
 
-💻 Coding in C++ since 7 years back
+💻 Coding in C++ since 8 years back
 
 📝 CSE student at Chalmers University of Technology
 
