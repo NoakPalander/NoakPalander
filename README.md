@@ -3,13 +3,9 @@
 👨‍💼 Software developer Palander Consulting AB
 👨‍💼 Intern at Ericsson AB
 
-💻 Coding in C++ since 8 years back
+💻 Coding in C++ since 9 years back
 
-📝 CSE student at Chalmers University of Technology
-
-🌱 Novice web developer
-
-Learning Elixir
+📝 HPC student at Chalmers University of Technology
 
 🌐 Sweden
 
